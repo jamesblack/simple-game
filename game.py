@@ -1,3 +1,4 @@
+#Import all the items
 from items import *
 from items.weapons import *
 
